@@ -1,6 +1,6 @@
 {
-  "name": "redux-bundler-async-resources",
-  "version": "1.2.0",
+  "name": "@dwarvesf/redux-bundler-async-resources",
+  "version": "1.2.1",
   "description": "redux-bundler bundle that manages a collection of async resources",
   "main": "index.js",
   "scripts": {
